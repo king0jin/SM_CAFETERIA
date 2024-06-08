@@ -12,13 +12,13 @@
 		justify-content: space-around;		
 		align-items : center;
 		font-family: 'Noto Sans KR';
-		font-size: 11px;
+		font-size: 13px;
 		color : #3D5576;
 		font-weight : 600;
 		padding: 20px;
 		background-color : #f9f9f9;
 		border-radius: 8px;
-		height : 50px;
+		height : 100px;
 		box-shadow: 0 2px 5px rgba(0,0,0,0.2);
 	}
 	
