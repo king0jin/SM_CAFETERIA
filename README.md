@@ -1,1 +1,2 @@
-# DatabaseProject
+## SM_Cafeteria
+교내 학식당 이용을 빠르고 원할하게 이용하기 위한 웹 서비스
